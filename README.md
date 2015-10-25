@@ -1,7 +1,10 @@
 # Kidney-The-Last-Stand
 Multiplayer collaborative tower defense game to protect the body from infection
+
 Game Rules
+
 Work with your teammates to defend the kidney against the infection. The game ends when you kill ten infection cards’ worth of Bacteria or a Bacterium makes it to the bottom end of the board infecting the bloodstream. If a Bacterium makes it from the top to the bottom end of the board, Bacteria win. If you kill all Bacteria, the immune system wins!
+
 Setup:
 Choose a difficulty level. 
 If you would like to play the easiest version of the game, use the blue infection cards. 
