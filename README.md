@@ -1,5 +1,8 @@
 # Kidney-The-Last-Stand
-Multiplayer collaborative tower defense game to protect the body from infection
+
+Kidney: The Last Stand is a multiplayer collaborative tower defense game created at SF Science Hack Day 2015 by Jacques Deguine, Mario Gumina, Meena Shah, and Maggie Fero. This repository contains all the materials needed to play the game yourself at home with your family. It is a cooperative game designed to educate the players on the immune system while they work together to defend the kidney against infection.
+
+Recommended for 2-6 players. Ages 7+.
 
 Game Rules
 
